@@ -7,6 +7,4 @@ This is an implementation of NOMA using deep learning framework.
 https://www.springeropen.com/collections/noma
 
 
-![alt text](https://github.com/abuzarahmad/Deep-Learning-for-Non-Orthogonal-Multiple-Access/blob/main/Constellation.png)
-
-![alt text](https://github.com/abuzarahmad/Deep-Learning-for-Non-Orthogonal-Multiple-Access/blob/main/Loss.png)
+![alt text](https://github.com/abuzarahmad/Deep-Learning-for-Non-Orthogonal-Multiple-Access/blob/main/Constellation.png) ![alt text](https://github.com/abuzarahmad/Deep-Learning-for-Non-Orthogonal-Multiple-Access/blob/main/Loss.png)
